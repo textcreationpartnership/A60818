@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some of the by-laws made by the Governour and Company of the City of London, for the plantation of the Summer-Islands Humbly offered to the consideration of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60818</idno>
+            <idno type="STC">Wing S4544A</idno>
+            <idno type="STC">ESTC R221585</idno>
+            <idno type="EEBO-CITATION">99825019</idno>
+            <idno type="PROQUEST">99825019</idno>
+            <idno type="VID">29384</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60818)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29384)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2061:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some of the by-laws made by the Governour and Company of the City of London, for the plantation of the Summer-Islands Humbly offered to the consideration of Parliament.</title>
+                  <author>Bermuda Islands.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bermuda Islands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:29384:1" rendition="simple:additions"/>
+            <head>Some of the By-Laws made by the Governour and Company of the City of <hi>London,</hi> for the Plantation of the Summer-Iſlands. Humbly offered to the Conſideration of Parliament.</head>
+            <p>THat for and towards the maintenance of Miniſters in the <hi>Summer-Iſlands,</hi> the providing of Ammunition for the defence of the Place, the payment of Officers, both here and there, and other publick Charges; the Duty of a Penny be Impoſed on every pound-weight of Tobacco that ſhall be Imported from the <hi>Summer-Iſlands</hi> of the growth of the Place; unleſs the Company ſhall think fit to alter and change the ſame.</p>
+            <div type="part">
+               <head>
+                  <hi>At a General-Court</hi> 18th <hi>of</hi> Auguſt 1658.</head>
+               <p>FOr the better ſecuring the Companies Duties, it is thought fit and ordered, That the Go<g ref="char:EOLhyphen"/>vernour and Council in the <hi>Summer-Iſlands</hi> ſhall have power given them, and they are hereby Authorized by this Company to ſeize and make ſale of the Goods of any perſon there that is endebted for, and ſhall neglect or refuſe to pay the Companies Duties. And in caſe there be not ſufficient Goods to ſatisfie and pay his Duties, That the ſaid Governour and Coun<g ref="char:EOLhyphen"/>cil do cauſe the Lands of every ſuch perſon to be extended until the ſaid Duties be fully paid.</p>
+            </div>
+            <div type="part">
+               <head>The long Law of Seizure of Ships.</head>
+               <head type="sub">At a great and General Quarter Court held for the Summer Iſlands Com<g ref="char:EOLhyphen"/>pany, on <hi>Wedneſday</hi> the 22d of <hi>November,</hi> 1676, at Sadlers-Hall.</head>
+               <argument>
+                  <p>
+                     <hi>A Law to Revive and make perpetual a Law made at a Quarter Court, held for this Company on</hi> Wedneſday <hi>the</hi> 12th <hi>of</hi> July 1671; <hi>Entituled,</hi> A Law making Forfeit <hi>all ſuch Goods and Commodities as are uſually Imported into the</hi> Somer-Iſlands, <hi>in the Companies Magazeen Ships, in caſe the ſame be imported thither in any other Ships: Alſo for the ſeizure of</hi> Tobacco <hi>and</hi> Cedar, <hi>ſent aboard Ships to be tranſported without Licence: And alſo making forfeit all ſuch Ships or Veſſels, as ſhall Import or Export any ſuch Goods, Commodities,</hi> Tobacco's <hi>or</hi> Ce<g ref="char:EOLhyphen"/>dar <hi>without Licence. And alſo appointing the Factor to produce his Invoice, make Oath thereof, and to ſell according to the ſame.</hi>
+                  </p>
+               </argument>
+               <p>WHereas a Right Good and Profitable Law was made at a Quarter Court held for this Company, on <hi>Wedneſday</hi> the 12th of <hi>July,</hi> 1671; Entituled, <hi>A Law making forfeit all ſuch Goods and Commodities, as are uſually Imported into the</hi> Somer-Iſlands, <hi>in the Companies Ma<g ref="char:EOLhyphen"/>gazeen Ships, in caſe the ſame be Imported thither in any other Ships: Alſo for the Seizure of</hi> To<g ref="char:EOLhyphen"/>bacco <hi>and</hi> Cedar <hi>ſent aboard Ships, to be Tranſported without Licenſe.</hi> Which Law was made to continue and be in force for Two years next enſuing Proclamation made thereof in the ſaid Iſlands: And for that the Reviving and Continuance of the ſaid Law, will be of great uſe and benefit to the Company and Plantation; and the Trading-Merchants of the ſaid Company.</p>
+               <p>Be it therefore Ordained and Enacted; And it is by the Authority of this Great and General Quarter Court, Ordained and Enacted, That the ſaid Law, with the Additions hereafter expreſſed, ſhall be, and is hereby Revived, Recontinued, and made Perpetual, and to have continuance for ever.</p>
+               <p>And be it further Ordained and Enacted; And it is hereby Ordained and Enacted, That from henceforth, no ſuch dry Goods or Commodities whatſoever, as have been and are uſually ſent in the Companies Magazeen-Ships, for the ſupply of the Inhabitants of the ſaid Iſlands, ſhall be ſent,
+<pb n="2" facs="tcp:29384:2"/>Shipped, Carried or Imported into the ſaid Iſlands, by any Member or Members of this Com<g ref="char:EOLhyphen"/>pany, or any Forreigner, or other Perſon or Perſons whatſoever, from the Port of <hi>London,</hi> or any other Port or Place within this Realm of <hi>England,</hi> Dominion of <hi>Wales,</hi> or Town of <hi>Bar<g ref="char:EOLhyphen"/>wick</hi> upon <hi>Tweed,</hi> in any Ship or Ships, Veſſel or Veſſels whatſoever, ſave only in the Companies Magazeen Ships, or in ſuch Ship or Veſſel as ſhall firſt have Licence from this Company, under the Seal of this Company, for Shipping or Exporting of ſuch Goods and Commodities for the ſaid Iſlands, under the penalty of the forfeiture and loſs of every ſuch Ship or Veſſel, with all its Guns, Furniture, Tackle, Ammunition and Apparel, as ſhall without Licence as aforeſaid, Carry and Import into the ſaid Iſland, any ſuch Goods and Commodities.</p>
+               <p>And be it further Ordained and Enacted; and it is hereby Ordained and Enacted, That from and after the end of Three Months next after Proclamation hereof made in the ſaid Iſland; no dry Goods or Commodities as have been and are uſually ſent in the Companies Magazeen Ships for the ſupply of the Inhabitants of the ſaid Iſlands, ſhall be ſent, Shipped, Carried or Imported into the ſaid Iſland, by any the Inhabitants of the ſaid Iſlands, or any other Perſon or Perſons whatſoever, from <hi>New England, Jamaca, Barbadoes, Mevis,</hi> or any other the <hi>Caribee Iſlands,</hi> or from <hi>Ireland</hi> or <hi>Scotland,</hi> in any Ship or Ships, Veſſel or Veſſels, belonging, or to belong to the ſaid Iſland, or in any other Ship or Ships, Veſſel or Veſſels whatſoever; ſave only in the Com<g ref="char:EOLhyphen"/>panies Magazeen Ships, or in ſuch Ship or Veſſel as ſhall firſt have Licence from this Company, under the Seal of this Company, for ſending and Importing of ſuch Goods and Commodities, under thr penalty of the forfeiture and loſs of every ſuch Ship or Veſſel, with all its Gunns, Eurniture, Tackle, Ammunition and Apparel, as ſhall without Licenſe as aforeſaid, Carry and Im<g ref="char:EOLhyphen"/>port into the ſaid Iſlands, any ſuch Goods and Commodities.</p>
+               <p>And Be it further Ordained and Enacted; And it is hereby Ordained and Enacted, That if it ſhall appear by the Oath of one or more of the Searchers, or other due proof upon Oath, be<g ref="char:EOLhyphen"/>fore the Deputy-Governour of the ſaid Iſland, That any ſuch dry Goods or Commodities, have been, or are brought, or Imported into the ſaid Iſlands by any Ship or Ships, Veſſel or Veſſels, except the Companies Magazeen Ships, for the time being, without Licence firſt had or obtained, as aforeſaid: Then, and in ſuch Caſe, The Sheriff of the ſaid Iſlands for the time being, forth<g ref="char:EOLhyphen"/>with upon Notice thereof, ſhall Seize and Secure; and he is hereby Impowered and Injoyned to Seize and Secure, to, and for the Uſe of the ſaid Company, all and every ſuch Ships of Veſſels, in, or by which, any ſuch dry Goods or Commodities ſhall be brought or Imported into the ſaid Iſland, with their Guns, Furniture, Tackle, Ammunition and Apparel; and ſhall likewiſe with all convenient ſpeed diſpoſe thereof by Sale or other<g ref="char:EOLhyphen"/>wiſe; which alſo he is hereby Impowered and Enjoyned to do. One fourth part of the Pro<g ref="char:EOLhyphen"/>ceed thereof, ſhall be allowed to the Informer; One other fourth part thereof to the Sheriff of the ſaid Iſlands, for his Care and Encouragement in that Service; And the reſidue thereof ſhall be Employed and diſpoſed of by the Sheriff, towards defraying the Publick Charge of the ſaid Iſlands in ſuch way and manner as the Deputy-Governour and Council there ſhall, from time to time, under Seal of the Office direct.</p>
+               <p>And be it further Ordained and Enacted, and it is hereby Ordained, and Enacted, That no Tobacco or Cedar of the Growth of the ſaid Iſlands, ſhall be Shipped or Laden on board any Ship or Ships, Veſſel or Veſſels, with intent to Export the ſame from or out of the ſaid Iſlands, other than the Companies Magazene Ships, without Licenſe firſt had and obtained from the Company here under their Common Seal, or from the Deputy Governour in the ſaid Iſlands for the time being, under his Hand and Seal of Office for doing thereof, under the Penalty of the forfeiture and loſſes of every ſuch Ship or Veſſel, with all its Guns, Furniture, Tackle, Am<g ref="char:EOLhyphen"/>munition and Apparel, which ſhall receive on Board any ſuch Tobacco or Cedar.</p>
+               <p>And be it further Ordained and Enacted, and it is hereby Ordained and Enacted, That if it ſhall at any time hereafter appear by the Oath of one or more of the Searchers, or other due proof upon Oath before the Deputy-Governour of the ſaid Iſlands, That Tobacco or Cedar of the Growth of the ſaid Iſlands are Laden or put aboard any Ship or Veſſel with intent to Ex<g ref="char:EOLhyphen"/>port the ſame from or out of the ſaid Iſlands, except upon the Companies Magazene-Ships for the time being without Licenſe firſt had or obtained as aforeſaid; That then and in ſuch caſe the Sheriff of the ſaid Iſlands for the time being forthwith upon notice thereof ſhall ſeize and ſe<g ref="char:EOLhyphen"/>cure: And he is hereby empowred and enjoyned to ſeize and ſecure to and for the uſe of the ſaid Company all and every ſuch Ships or Veſſels in or upon which any ſuch Goods are ſo La<g ref="char:EOLhyphen"/>den to be Exported as aforeſaid, with their Guns, Furniture, Tackle, Ammunition and Apparel. And ſhall likewiſe with all convenient ſpeed Diſpoſe thereof by Sale, or otherwiſe; which alſo he is hereby Empowered and Enjoyned to do: One fourth part of the proceed thereof ſhall be allowed to the Informer, one other fourth part thereof to the Sheriff of the ſaid Iſlands for his
+<pb n="3" facs="tcp:29384:3"/>Care and Encouragement in that Service; and the reſidue thereof ſhall be imployed and diſpoſed of by the Sheriff towards defraying the publick Charge of the ſaid Iſlands, in ſuch way and manner as the Deputy-Governour and Council there ſhall from time to time under Seal of the Office direct.</p>
+               <p>And be it further Ordained and Enacted; And it is hereby Ordained and Enacted, That all and every Merchant that hereafter ſhall ſend any Goods and Commodities to the Summer-Iſlands, ſhall together with the ſame ſend an Envoice ſigned by him, of the Rates and Prices at which the ſame are to be ſold. And that the Factor or Agent of every ſuch Merchant, before he ſhall ſell or expoſe to ſale any ſuch Goods or Commodities, ſhall repair to the Deputy-Governour of the ſaid Iſlands for the time being, and ſhall before him produce the Envoice and Envoices of ſuch Goods and Merchandizes that are to him conſigned and ſent. And that every ſuch Factor or Agent ſhall take his Oath on the holy Evangeliſt, before the Deputy-Governour in the ſaid Iſlands, for the time being; which Oath the ſaid Deputy-Governour is hereby impowered to Adminiſter, That the ſaid Envoice and Envoices are the ſame that he received from his Merchant or Correſpondent. And that he will not ſell the Goods or Merchandizes therein mentioned, or a<g ref="char:EOLhyphen"/>ny part thereof, at any higher or greater rate or prize than are expreſſed in ſuch reſpective En<g ref="char:EOLhyphen"/>voice. And that every Agent or Factor that ſhall ſell or diſpoſe of any Goods or Merchandizes before Oath made, as aforeſaid, or at greater rates or prices than are contained in ſuch Envoice or Envoices, or ſhall refuſe to produce and ſhew forth ſuch Envoice and Envoices to any Buyer that ſhall demand ſight thereof; ſhall for every ſuch Offence forfeit and pay the ſum of ten pounds of Money Sterling, to be levyed by the Sheriff of the ſaid Iſlands, by Diſtreſs and Sale of the Offenders Goods (rendring the over-plus thereof (if any ſhall be) to the party Offen<g ref="char:EOLhyphen"/>ding) to be imployed for publick Uſes.</p>
+               <closer>
+                  <signed>RICHARD BANNER, <hi>Secretary of the ſaid Company.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>At a Quarters-Court</hi> 25 Novemb. 1663.</head>
+               <p>WHereas the building of Ships in the <hi>Summer-Iſlands,</hi> if not reſtrained by Law, may be of dangerous conſequence to the welfare of the Company and the Plantation; as name<g ref="char:EOLhyphen"/>ly, That the Timber of the Iſlands by the building of Ships will be utterly deſtroyed; That when the Inhabitants have Shipping of their own, occaſion will be given to ſteal and carry away the Tobacco, and ſo the Company deprived of their Duties; The Magazene-Ships ſent from the Company will be diſappointed of their Freight; at leaſt entertained at great uncertainties; And laſtly the Members of the Company, and Owners of Land here, will loſe their Rents and Debts, and in ſhort time their whole Eſtate; for prevention thereof,</p>
+               <p>Be it Enacted and Ordained, and this General Court do ordain and eſtabliſh, That no Veſſel exceeding five Tunns ſhall be by any perſon or perſons upon any pretence whatſoever erected or built in the ſaid Iſlands, without expreſs Orders from the Company firſt had and obtained. And if any perſon or perſons ſhall preſume to erect any Veſſel within the ſaid Iſlands exceeding five Tunns or upwards, That upon diſcovery and legal proof of the ſame taken before the Go<g ref="char:EOLhyphen"/>vernour or any of the Council there, all and every ſuch Veſſel to be forfeited and ſeized upon, and ſold for the uſe of the Company; and out of the Money to be raiſed thereupon, one fourth part to be paid to the party that ſhall give the Information, and the other three parts to be paid to the Sheriff of the ſaid Iſlands; to be laid out for general and publick uſes.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>At a Quarter Court for the Summer-Iſlands Company, held at</hi> Armourers Hall <hi>in</hi> Coleman-ſtreet, <hi>London:</hi> Wedneſday, <hi>the</hi> 10th <hi>of</hi> Febru<g ref="char:EOLhyphen"/>ary, 1669.</head>
+               <p>THE Company taking into Conſideration, that the only ground of the preſent differences that are among them, hath been the entertaining of a Ship wherein one or more par<g ref="char:EOLhyphen"/>ticular Members have had Intereſt, and that the ſame hath been found by daily experience to be very prejudicial to the Company; and that no Articles have of late been obſerved, no En<g ref="char:EOLhyphen"/>voices given as they ought to have been; the Accounts ſuch only as the Company could have no check upon; beſides the general damage to the Plantation by Tranſporting of Cedar, and other<g ref="char:EOLhyphen"/>wiſe, and that the entertaining of ſtrange Ships would much conduce to the benefit of the Compa<g ref="char:EOLhyphen"/>pany, as that the Company would then have due Account; None would be encouraged to wrong the Company and Plantation; the Members would agree to puniſh Offenders, and the whole would tend to Union in the Company.</p>
+               <pb n="4" facs="tcp:29384:4"/>
+               <p>Be it Enacted and Ordained, That no Ship ſhall be entertained by this Company as a <hi>Magazceen-Ship,</hi> in any Voyage to the Summer-Iſlands, for the future, wherein any Member or Members of this Company, have or ſhall have any particular ſhare or Intereſt.</p>
+               <closer>
+                  <signed>THOMAS MARTIN, <hi>Secretary to the ſaid Company.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The</hi> 117th <hi>Law of the Company Printed.</hi>
+               </head>
+               <p>ALL Grants from the Company of mens private Lands in the Summer-Iſlands, ſhall paſs under the Common Seal of the Company; which ſhall be ſufficient eviidence for the ſaid Lands, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>At a Quarter-Court the</hi> 25 <hi>of</hi> May, 1636.</head>
+               <p>WHereas it is given out, That divers of the Planters that live in the Iſlands, do intend, and are about to buy divers ſhares of Land for their own uſe; which in time may be of ill conſequence to this State, and Company, and their Governours: for the preventing there<g ref="char:EOLhyphen"/>of, This Court do Order and give Authority for the buying of all ſuch Lands, and do alſo Con<g ref="char:EOLhyphen"/>firm their former Order, That no one ſhall be admitted of the Company, by Vertue of any Land he ſhall buy, unleſs the ſame Land were firſt offered to the Company; nor any ſuch Deed to be ratified under the Companies Seal.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
